@@ -14,7 +14,7 @@ describe 'clevis' do
       it { is_expected.to contain_package('clevis') }
       it { is_expected.to contain_package('clevis-luks') }
       it { is_expected.to contain_package('clevis-dracut') }
-      it { is_expected.to contain_exec('/sbin/dracut −f −−regenerate −all') }
+      it { is_expected.to contain_exec('/sbin/dracut -f --regenerate -all') }
     end
   end
 end
