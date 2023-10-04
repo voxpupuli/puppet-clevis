@@ -2,7 +2,7 @@
 # @api private
 class clevis::hook {
   assert_private()
-  exec { '/sbin/dracut −f −−regenerate −all':
+  exec { '/sbin/dracut -f --regenerate -all':
     path   => [
       '/usr/sbin',
       '/sbin',
