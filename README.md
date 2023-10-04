@@ -1,5 +1,14 @@
 # clevis
 
+[![Build Status](https://github.com/voxpupuli/puppet-clevis/workflows/CI/badge.svg)](https://github.com/voxpupuli/puppet-clevis/actions?query=workflow%3ACI)
+[![Release](https://github.com/voxpupuli/puppet-clevis/actions/workflows/release.yml/badge.svg)](https://github.com/voxpupuli/puppet-clevis/actions/workflows/release.yml)
+[![Puppet Forge](https://img.shields.io/puppetforge/v/puppet/clevis.svg)](https://forge.puppetlabs.com/puppet/clevis)
+[![Puppet Forge - downloads](https://img.shields.io/puppetforge/dt/puppet/clevis.svg)](https://forge.puppetlabs.com/puppet/clevis)
+[![Puppet Forge - endorsement](https://img.shields.io/puppetforge/e/puppet/clevis.svg)](https://forge.puppetlabs.com/puppet/clevis)
+[![Puppet Forge - scores](https://img.shields.io/puppetforge/f/puppet/clevis.svg)](https://forge.puppetlabs.com/puppet/clevis)
+[![puppetmodule.info docs](http://www.puppetmodule.info/images/badge.png)](http://www.puppetmodule.info/m/puppet-clevis)
+[![AGPL v3 License](https://img.shields.io/github/license/voxpupuli/puppet-clevis.svg)](LICENSE)
+
 Clevis is a pluggable framework for automated decryption.
 
 ## Table of Contents
