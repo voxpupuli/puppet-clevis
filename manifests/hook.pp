@@ -1,6 +1,7 @@
 # @summary clevis::hook class used by clevis main class only.
 # @api private
 class clevis::hook {
+  assert_private()
   exec { '/sbin/dracut −f −−regenerate −all':
     path   => [
       '/usr/sbin',
