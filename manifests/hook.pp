@@ -1,5 +1,5 @@
-# clevis::hook class
-# used by main clevis class only.
+# @summary clevis::hook class used by clevis main class only.
+# @api private
 class clevis::hook {
   exec { '/sbin/dracut −f −−regenerate −all':
     path   => [
