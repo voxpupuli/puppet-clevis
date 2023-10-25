@@ -1,6 +1,6 @@
 {
   "name": "puppet-clevis",
-  "version": "0.2.0",
+  "version": "0.2.1-rc0",
   "author": "Vox Pupuli",
   "summary": "Module to install clevis for automated disk decryption",
   "license": "AGPL-3.0",
