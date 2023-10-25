@@ -11,5 +11,8 @@ describe 'tang class' do
         PUPPET
       end
     end
+    describe package('clevis') do
+      it { is_expected.to be_installed }
+    end
   end
 end
