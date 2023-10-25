@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v0.2.0](https://github.com/voxpupuli/puppet-clevis/tree/v0.2.0) (2023-10-25)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-clevis/compare/v0.1.0...v0.2.0)
+
+**Implemented enhancements:**
+
+- Move static data from hiera to init.pp [\#16](https://github.com/voxpupuli/puppet-clevis/pull/16) ([bastelfreak](https://github.com/bastelfreak))
+
 ## [v0.1.0](https://github.com/voxpupuli/puppet-clevis/tree/v0.1.0) (2023-10-25)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-clevis/compare/331e6a497688ee9c9a2e3f6b36f27f8386ba42b1...v0.1.0)
@@ -20,6 +28,7 @@ These should not affect the functionality of the module.
 
 **Merged pull requests:**
 
+- Acceptance test: check if clevis is installed [\#14](https://github.com/voxpupuli/puppet-clevis/pull/14) ([bastelfreak](https://github.com/bastelfreak))
 - enable acceptance tests in GitHub actions & Add basic acceptance test [\#10](https://github.com/voxpupuli/puppet-clevis/pull/10) ([bastelfreak](https://github.com/bastelfreak))
 - README.md: Add missing badges [\#8](https://github.com/voxpupuli/puppet-clevis/pull/8) ([bastelfreak](https://github.com/bastelfreak))
 - Add AGPL-3.0 license [\#6](https://github.com/voxpupuli/puppet-clevis/pull/6) ([bastelfreak](https://github.com/bastelfreak))
