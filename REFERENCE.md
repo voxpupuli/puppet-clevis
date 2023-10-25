@@ -42,3 +42,5 @@ Data type: `Array[String[1]]`
 
 Array of package names to install
 
+Default value: `['clevis', 'clevis-luks', 'clevis-dracut']`
+

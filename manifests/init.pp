@@ -8,7 +8,7 @@
 # @example
 #   include clevis
 class clevis (
-  Array[String[1]] $package_name,
+  Array[String[1]] $package_name = ['clevis', 'clevis-luks', 'clevis-dracut'],
 ) {
   include clevis::install
   include clevis::hook
