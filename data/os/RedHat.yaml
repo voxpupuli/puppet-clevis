@@ -1,5 +1,0 @@
----
-clevis::package_name:
-  - 'clevis'
-  - 'clevis-luks'
-  - 'clevis-dracut'
